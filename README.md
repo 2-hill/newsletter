@@ -1,6 +1,6 @@
 # Sample of Monthly Newsletters
 
-# June Newsletter
+#June Newsletter
 <img src="./juneletter.png" alt="logo"/>
-# May Newsletter
+#May Newsletter
 <img src="./mayletter.png" alt="logo"/>
