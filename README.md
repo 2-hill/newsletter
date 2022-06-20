@@ -2,8 +2,8 @@
 
 ## June Newsletter
 
-<img src="./juneletter.png" alt="logo"/>
+<img src="./juneletter.png" alt="june"/>
 
 ## May Newsletter
 
-<img src="./mayletter.png" alt="logo"/>
+<img src="./mayletter.png" alt="may"/>
